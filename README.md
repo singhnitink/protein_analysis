@@ -7,6 +7,6 @@ Note: It requires dependency of VMD and python3+pandas package
 
 VMD download: https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD
 
-Pandas installation: sudo apt-get install python3-pip
-
-                     sudo -H pip3 install pandas
+Pandas installation: 
+	sudo apt-get install python3-pip
+	sudo -H pip3 install pandas
